@@ -1,7 +1,8 @@
-Hi, I'm Krunal Savaj! 👋🏼
+# Hi, I'm Krunal Savaj! 👋🏼
+
 I'm a Fullstack Developer with over 4 years of experience in IT.
 
-🚀 Skills
+# 🚀 Skills
 👉 Node.js/Typescript, React.js/Next.js, Express.js/Nest.js, GraphQL/Apollo GraphQL.
 
 👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind, ANTD, Chakra UI).
@@ -18,4 +19,4 @@ I'm interested in working with you in the long term because of my experience in 
 
 Thanks,
 
-Krunal Savaj
+# Krunal Savaj
