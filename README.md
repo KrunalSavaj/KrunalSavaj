@@ -1,22 +1,25 @@
-# Hi, I'm Krunal Savaj! 👋🏼
+# Hi, I'm Krunal Savaj! 👋🏼  
 
-I'm a Fullstack Developer with over 3 years of experience in IT.
+I'm a Fullstack Developer with over 3 years of experience in IT.  
 
-# 🚀 Skills
-👉 Node.js/Typescript, React.js/Next.js, Express.js/Nest.js, GraphQL/Apollo GraphQL.
+## 🚀 Skills  
+- **Backend:** Node.js/Typescript, Express.js/Nest.js, GraphQL/Apollo GraphQL.  
+- **Frontend:** React.js/Next.js.  
+- **Styling:** CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind, ANTD, Chakra UI).  
+- **Databases:** SQL (Postgres, MySQL, MSSQL, AWS RDS), NoSQL (MongoDB, DynamoDB).  
+- **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, Amplify, AppSync, SES, Cognito, CI/CD), GCP (Cloud Functions, Buckets), Docker.  
+- **Tools:** Git, Jira, Trello, Asana.  
 
-👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind, ANTD, Chakra UI).
+I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project.  
 
-👉 SQL(Postgres, MySql, MsSql, AWS RDS), NoSQL(MongoDB, DynamoDB).
+## 🤝 Let's Connect  
+- **[LinkedIn](https://www.linkedin.com/in/krunalsavaj/)**  
+- **[Upwork](https://www.upwork.com/freelancers/~0146439a54d5123220)**  
 
-👉 AWS(Lambda, S3, APIGateway, Amplify, AppSync, SES, Cognito, CI/CD), GCP(Cloud Functions, Buckets), Docker etc... .
+## **[My Portfolio](https://krunalsavaj.vercel.app/)** 
 
-👉 Git, Jira, Trello board, Asana!
+If you're interested in working with me or have any further questions, please don't hesitate to contact me. I look forward to hearing from you!  
 
-I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
+Thanks,  
 
-🤝 Let's work together If you're interested in working with me or have any further questions, please don't hesitate to contact me using the information provided above. I look forward to hearing from you!
-
-Thanks,
-
-# Krunal Savaj
+**Krunal Savaj**
