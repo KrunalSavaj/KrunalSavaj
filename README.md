@@ -4,7 +4,7 @@ I'm a Fullstack Developer with over 4 years of experience in IT.
 
 ## 🚀 Skills  
 - **Backend:** Node.js/Typescript, Express.js/Nest.js, GraphQL/Apollo GraphQL.  
-- **Frontend:** React.js/Next.js.  
+- **Frontend:** React.js/Next.js, Web3.js/ethers.js
 - **Styling:** CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind, ANTD, Chakra UI).  
 - **Databases:** SQL (Postgres, MySQL, MSSQL, AWS RDS), NoSQL (MongoDB, DynamoDB).  
 - **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, Amplify, AppSync, SES, Cognito, CI/CD), GCP (Cloud Functions, Buckets), Docker.  
