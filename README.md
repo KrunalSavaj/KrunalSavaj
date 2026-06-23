@@ -15,7 +15,7 @@ I'm interested in working with you in the long term because of my experience in 
 ## 🤝 Let's Connect  
 - **[LinkedIn](https://www.linkedin.com/in/krunalsavaj/)**  
 - **[Upwork](https://www.upwork.com/freelancers/~0146439a54d5123220)**  
-- **[My Portfolio](https://krunalsavaj.vercel.app/)** 
+- **[My Portfolio](https://krunalsavaj.dev/)** 
 
 If you're interested in working with me or have any further questions, please don't hesitate to contact me. I look forward to hearing from you!  
 
