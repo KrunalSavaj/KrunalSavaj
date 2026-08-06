@@ -1,6 +1,6 @@
 # Hi, I'm Krunal Savaj! 👋🏼  
 
-I'm a Fullstack & Mobile App Developer with over 4 years of experience in IT.  
+I'm a Full-stack & Mobile App Developer with over 5 years of experience in IT.  
 
 ## 🚀 Skills  
 
